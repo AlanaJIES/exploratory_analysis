@@ -1,7 +1,7 @@
-# Proyecto 11 Ofuscamiento de datos de Sure Tomorrow
+# Proyecto 4 - Análisis con Jupyter Notebook
 
 ## Descripción
-# Proyecto 4 - Análisis con Jupyter Notebook
+
 Este proyecto utiliza datos para realizar un análisis exploratorio y predictivo.
 
 ## Contenido del Notebook
